@@ -70,7 +70,7 @@ Utilizing Project Management Software:
 Modern project management software provides tools for budget tracking, cost analysis, and reporting, which can help to prevent budget overruns
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each
--aterfall Methodology:
+-Waterfall Methodology:
 
 Concept:
 A linear, sequential approach where each phase of the project (requirements, design, implementation, testing, deployment, maintenance) is completed before moving to the next.
